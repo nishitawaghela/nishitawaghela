@@ -11,7 +11,7 @@
       </ul>
     </td>
     <td width="35%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212749443-2a6a3c28-ff8a-4a9c-b0b1-ccf1c7a4c9b4.gif" alt="Coding" width="100%" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="100%" />
     </td>
   </tr>
 </table>
@@ -20,8 +20,8 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishitaWaghela&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nishita's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishitaWaghela&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishitawaghela&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Nishita's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishitawaghela&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
