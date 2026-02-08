@@ -18,14 +18,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://stats-github.vercel.app/api?username=nishitawaghela&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://stats-github.vercel.app/api/top-langs/?username=nishitawaghela&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Link | Live Demo |
