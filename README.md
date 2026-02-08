@@ -11,7 +11,7 @@
       </ul>
     </td>
     <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding setup" width="100%" />
+      <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Terminal" width="100%" />
     </td>
   </tr>
 </table>
