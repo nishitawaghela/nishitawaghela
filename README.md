@@ -1,25 +1,34 @@
-# Hi there, I'm Nishita! 👋
+# Hi, I'm Nishita! 👋
 
 <table align="center">
   <tr>
     <td width="60%" valign="top">
-      <h3>✨ About Me:</h3>
+      <h3>✨ Professional Summary</h3>
       <ul>
-        <li>🎓 <b>Data Science Student</b> at D.J. Sanghvi College of Engineering.</li>
-        <li>🛠️ <b>Niche:</b> Data Engineering.</li>
-        <li>🔍 <b>Interests:</b> SDE, Data Analytics, Machine Learning, and Generative AI.</li>
-        <li>💡 Exploring scalable data architectures and intelligent systems.</li>
+        <li>🎓 <b>Data Science Engineering Student</b> at D.J. Sanghvi College of Engineering.</li>
+        <li>🚀 Focused on <b>Data Engineering</b>, <b>Real-time Pipelines</b>, and <b>Scalable Architectures</b>.</li>
+        <li>💡 Actively researching <b>Semantic Web (OWL)</b> and <b>Knowledge Graphs</b> for intelligent systems.</li>
+        <li>💻 Building expertise in <b>Machine Learning</b>, <b>Generative AI</b>, and <b>Software Development</b>.</li>
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://github.com/blacktop/gifs/blob/master/typing.gif?raw=true" width="200px"/>
+      <img src="https://media.giphy.com/media/L1R1TVTh2RhtDZdCvX/giphy.gif" width="100%" alt="coding animation"/>
     </td>
   </tr>
 </table>
 
 ---
 
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishita_w&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nishita's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishita_w&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 ### 🚀 Featured Projects
+
 | Project | Description | Tech Stack | Link | Live Demo |
 | :--- | :--- | :--- | :---: | :---: |
 | **Graph-Based AML** | Fraud detection system using graph analytics for financial security. | Neo4j, Python, ML | [📂 Repo](#) | [🌐 Live](#) |
@@ -28,18 +37,9 @@
 
 ---
 
-### 🧠 Deep Dive: Graph-Based AML Fraud Detection
-*How I tackled complex financial fraud patterns using Graph Analytics.*
+### 💻 Tech Stack
 
-- **The Challenge:** Detecting "Smurfing" and "Layering" patterns that are invisible in tabular formats.
-- **The Engine:** Integrated **Neo4j** with a **Python** backend to perform real-time link analysis.
-- **The Impact:** Improved detection of synthetic identities by analyzing the connectivity between shared PII nodes.
-
----
-
-### 💻 Tech Stack:
-
-#### Languages & Core Tools
+#### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 #### Data Engineering & Big Data
@@ -56,5 +56,5 @@
 
 ---
 
-### 📬 Connect with me:
+### 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
