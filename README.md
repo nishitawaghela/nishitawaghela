@@ -2,7 +2,7 @@
 
 <table align="center">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <h3>✨ Professional Summary</h3>
       <ul>
         <li>🎓 <b>Data Science Engineering Student</b> at D.J. Sanghvi College of Engineering.</li>
@@ -11,8 +11,8 @@
         <li>💻 Building expertise in <b>Machine Learning</b>, <b>Generative AI</b>, and <b>Software Development</b>.</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/L1R1TVTh2RhtDZdCvX/giphy.gif" width="100%" alt="coding animation"/>
+    <td width="45%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Lo-Fi"/>
     </td>
   </tr>
 </table>
