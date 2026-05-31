@@ -22,9 +22,10 @@
 
 | Project | Description | Tech Stack | Link | Live Demo |
 | :--- | :--- | :--- | :---: | :---: |
+| **Sentinel Risk Engine** | Real-Time AI risk pipeline to detect market manipulation via live trade streams. | Python, FastAPI, Kafka, PySpark | [📂 Repo](https://github.com/nishitawaghela/risk-sentinel-pipeline) | [🌐 Live](https://sentinel-dashboard-u5bdxsxgfw5uzp7z6kthpy.streamlit.app/) |
 | **Graph-Based AML** | Money-Laundering detection system using graph analytics for financial security. | Neo4j, Python, ML | [📂 Repo](https://github.com/nishitawaghela/graph-aml-fraud-detection) | [🌐 Live]( https://graph-aml-fraud-detection-6ffm6yydeuhi4tyq8xr5du.streamlit.app/) |
 | **Real-time Log Pipeline** | End-to-end ingestion and processing using Spark , Kafka & Docker. | Python, Spark, Kafka, Docker | [📂 Repo](https://github.com/nishitawaghela/real-time-log-pipeline) | - |
-| **Derm AI** | AI-driven dermatological analysis and classification system. | TensorFlow, Keras, Python | [📂 Repo](https://github.com/nishitawaghela/DermAI) | - |
+
 
 ---
 
