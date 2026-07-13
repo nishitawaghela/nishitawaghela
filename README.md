@@ -22,10 +22,11 @@
 
 | Project | Description | Tech Stack | Link | Live Demo |
 | :--- | :--- | :--- | :---: | :---: |
+| **AI-Powered Pharma Sales Intelligence Platform** | An AI-driven analytics platform that turns natural-language questions into instant insights on pharma sales, rep performance, and regional drug market trends.| Python, PostgreSQL, LangChain, FAISS, Groq, Tableau, FastAPI, openpyxl | [📂 Repo](https://github.com/nishitawaghela/PharmaIQ-Pharma-Sales-Intelligence-Platform) | [🌐 Live](https://pharmaiq-pharma-sales-intelligence-platform-b8ugvqm69sm7z9zjbg.streamlit.app/) |
 | **Futures & Options Expiry Analytics Platform** | Real-time NSE F&O expiry analytics pipeline with automated Excel reporting.| Python, Kafka, Delta Lake, dbt, FastAPI, Redis, Scikit-learn, openpyxl, PostgreSQL, Docker | [📂 Repo](https://github.com/nishitawaghela/fo-expiry-platform) | [🌐 Live](https://fo-expiry-platform-njbwcctmjdoalzksh68rad.streamlit.app/) |
 | **Sentinel Risk Engine** | Real-Time AI risk pipeline to detect market manipulation via live trade streams. | Python, FastAPI, Kafka, PySpark | [📂 Repo](https://github.com/nishitawaghela/risk-sentinel-pipeline) | [🌐 Live](https://sentinel-dashboard-u5bdxsxgfw5uzp7z6kthpy.streamlit.app/) |
 | **Graph-Based AML** | Money-Laundering detection system using graph analytics for financial security. | Neo4j, Python, ML | [📂 Repo](https://github.com/nishitawaghela/graph-aml-fraud-detection) | [🌐 Live]( https://graph-aml-fraud-detection-6ffm6yydeuhi4tyq8xr5du.streamlit.app/) |
-| **Real-time Log Pipeline** | End-to-end ingestion and processing using Spark , Kafka & Docker. | Python, Spark, Kafka, Docker | [📂 Repo](https://github.com/nishitawaghela/real-time-log-pipeline) | - |
+
 
 
 ---
