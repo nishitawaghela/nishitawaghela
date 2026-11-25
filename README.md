@@ -6,7 +6,7 @@
       <h3>✨ About Me:</h3>
       <ul>
         <li>🎓 <b>Data Science</b> Student at <b>D.J. Sanghvi College of Engineering</b>.</li>
-        <li>💻  <b>SDE</b>, <b>Data Engineering</b>, <b>Gen AI</b>.</li>
+        <li>💻  <b>SDE</b>, <b>Data Engineering</b>, <b>Data Analytics</b>, <b>AI/ML</b>.</li>
       </ul>
     </td>
     <td width="35%" align="center">
